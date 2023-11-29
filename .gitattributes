@@ -1,7 +1,8 @@
 *.node.js linguist-detectable=true
-*.node.js linguist0language=node.js 
+*.node.js linguist-language=node
 *.express.js linguist-detectable=true
-*.sql linguist detectable=true
+*.sql linguist-detectable=true
 *.js linguist-detectable=false
 *.html linguist-detectable=false
 *.css linguist-detectable=false
+
