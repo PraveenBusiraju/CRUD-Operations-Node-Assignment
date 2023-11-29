@@ -1,0 +1,4 @@
+*.node linguist-detectable=true
+*.express linguist-detectable=true
+*.sql linguist detectable=true
+*.js linguist-detectable=false
