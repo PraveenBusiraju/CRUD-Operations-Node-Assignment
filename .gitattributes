@@ -5,4 +5,7 @@
 *.js linguist-detectable=true
 *.html linguist-detectable=false
 *.css linguist-detectable=false
+*.sql linguist-detectable=true
+*.sql linguist-language=SQL
+
 
