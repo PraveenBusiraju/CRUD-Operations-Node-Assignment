@@ -1,5 +1,5 @@
-*.node linguist-detectable=true
-*.express linguist-detectable=true
+*.node.js linguist-detectable=true
+*.express.js linguist-detectable=true
 *.sql linguist detectable=true
 *.js linguist-detectable=false
 *.html linguist-detectable=false
